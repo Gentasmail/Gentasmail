@@ -20,5 +20,8 @@ Here are some ideas to get you started:
 - Linked me [**Open**](https://www.linkedin.com/in/genta-awaludin-ismail-5417b1279/)
 - My girlfriend is Ervitha
 
-
-![Ini adalah Saya](img/genta.JPG)
+<div align="center">
+  <div style="border: 2px solid #003366; padding: 6px; display: inline-block;">
+    <img src="img/genta.JPG" width="80%" height="30%" style="display: block;">
+  </div>
+</div>
