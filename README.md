@@ -25,3 +25,9 @@ Here are some ideas to get you started:
     <img src="img/genta.JPG" width="80%" height="30%" style="display: block;">
   </div>
 </div>
+
+<div align="center">
+  <div style="border: 2px solid #003366; padding: 6px; display: inline-block;">
+    <img src="img/ervitha.JPG" width="80%" height="30%" style="display: block;">
+  </div>
+</div>
