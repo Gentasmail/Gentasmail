@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Human! I'm Genta Awaludin Ismail 👋
 
 <!--
 **Gentasmail/Gentasmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- I’m currently learning Laravel Framework.
+- Linked me [**Open**](https://www.linkedin.com/in/genta-awaludin-ismail-5417b1279/)
