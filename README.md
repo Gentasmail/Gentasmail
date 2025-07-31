@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - I’m currently learning **Laravel Framework**.
 - Linked me [**Open**](https://www.linkedin.com/in/genta-awaludin-ismail-5417b1279/)
 - My girlfriend is Ervitha
+
+
+![Ini adalah Saya](img/genta.JPG)
